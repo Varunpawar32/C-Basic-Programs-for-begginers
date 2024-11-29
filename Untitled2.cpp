@@ -9,10 +9,12 @@ int main()
 	
 	if(a>>b)
 	{
+		//if a is greater
 		cout<<"a = "<<a;
 	}
 	else
 	{
+		// if bis greater
 		cout<<"b = "<<b;
 	}
 	 return 0;
